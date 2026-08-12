@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Christian Rodrigues </h1>
 
-<p align="center">
+<p align="center"> 
   Desenvolvedor em formação
   <div align="center">
 
@@ -56,14 +56,17 @@
 
 ### Estatísticas
 
+<div align="center">
 
 <img
- width="31.6%"
- src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChristianDSR&theme=tokyonight"
-/> 
+ width="58%"
+ align="top"
+ src="./profile/stats.svg"
+/>
 <img
- width="65%"
- src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianDSR&theme=tokyonight&name=Christian%20Rodrigues"
+ width="40%"
+ align="top"
+ src="./profile/top-langs.svg"
 />
 
 </div>
